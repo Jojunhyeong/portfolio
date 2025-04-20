@@ -2,6 +2,7 @@
 
 import Header from './components/Header/Header';
 import About from './sections/About';
+import Projects from './sections/Projects';
 import TechStack from './sections/TechStack';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <About />
       <TechStack />
+      <Projects />
     </div>
   );
 }
