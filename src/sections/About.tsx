@@ -4,7 +4,7 @@ export default function About() {
     return (
         <section
             id="about"
-            className="pt-10 relative w-full h-96 flex justify-center items-start text-left px-6 bg-gradient-to-r from-[#FFFFFF] via-[#F3F0FF] to-[#E0DFFF]">
+            className="relative w-full py-20 flex justify-center items-start text-left px-6 bg-gradient-to-r from-[#FFFFFF] via-[#F3F0FF] to-[#E0DFFF]">
 
             <div className="flex flex-col justify-between items-start text-left w-full max-w-4xl">
                 <h1 className="text-4xl md:text-5xl font-bold text-gray-800">조준형</h1>
