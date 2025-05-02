@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaGlobe,} from "react-icons/fa";
+import { FaGithub} from "react-icons/fa";
 import { SiVelog } from "react-icons/si";
 
 export default function Contact() {
