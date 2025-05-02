@@ -1,4 +1,3 @@
-import { BiColor } from "react-icons/bi";
 import SkillCard from "../components/SkillCard";
 import {
     SiHtml5, SiCss3, SiJavascript, SiTypescript, SiReact, SiNextdotjs, SiTailwindcss,

@@ -1,4 +1,4 @@
-import CareerTimeLine from "../components/CareerTimeLine"
+import CareerTimeLine from "../components/CareerTimeline"
 
 export default function Career() {
     return(
