@@ -4,6 +4,7 @@ import Header from './components/Header/Header';
 import About from './sections/About';
 import Blog from './sections/Blog';
 import Career from './sections/Career';
+import Contact from './sections/Contact';
 import Projects from './sections/Projects';
 import TechStack from './sections/TechStack';
 
@@ -17,6 +18,7 @@ function App() {
       <Projects />
       <Blog/>
       <Career/>
+      <Contact/>
     </div>
   );
 }
