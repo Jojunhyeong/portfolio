@@ -3,7 +3,7 @@ import { SiVelog } from "react-icons/si";
 
 export default function Contact() {
     return (
-        <section className="w-full py-20 bg-gray-50 flex flex-col items-center" id="contact">
+        <section className="scroll-mt-16 w-full py-20 bg-gray-50 flex flex-col items-center" id="contact">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">📮 연락처</h2>
             <p className="mb-10 text-gray-600">프로젝트 협업이나 채용 문의는 아래 이메일로 연락주세요.</p>
 

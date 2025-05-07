@@ -17,7 +17,7 @@ export default function Projects() {
     ];
 
     return (
-        <section id="projects" className="w-full py-20 px-6 bg-white">
+        <section id="projects" className="scroll-mt-16 w-full py-20 px-6 bg-white">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4 text-center">
                 프로젝트
             </h2>

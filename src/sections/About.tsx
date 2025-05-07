@@ -3,9 +3,9 @@ export default function About() {
     return (
         <section
             id="about"
-            className="relative w-full py-20 flex justify-center items-start text-left px-6 bg-gradient-to-r from-[#FFFFFF] via-[#F3F0FF] to-[#E0DFFF]">
+            className=" scroll-mt-16 relative w-full py-20 flex justify-center items-start text-left px-6 bg-gradient-to-r from-[#FFFFFF] via-[#F3F0FF] to-[#E0DFFF]">
 
-            <div className="flex flex-col justify-between items-start text-left w-full max-w-4xl">
+            <div className="flex flex-col justify-between mt-32 mb-32 items-start text-left w-full max-w-4xl">
                 <h1 className="text-4xl md:text-5xl font-bold text-gray-800">조준형</h1>
                 <p className="mt-6 text-lg text-gray-600">
                     안녕하세요! 사용자 경험을 먼저 생각하는 프론트엔드 개발자를 지향하고 있습니다.
@@ -13,7 +13,7 @@ export default function About() {
                     <br />협업과 커뮤니케이션을 중시하며 함께 성장하는 개발자가 되고자 합니다.
                 </p>
             </div>
-            <div className="shrink-0"><img className=" rounded-xl object-cover h-72" src={profile} alt="프로필 사진" /></div>
+            <div className="shrink-0"><img className=" rounded-xl object-cover h-96" src={profile} alt="프로필 사진" /></div>
         </section>
     )
 }

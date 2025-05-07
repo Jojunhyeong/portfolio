@@ -3,7 +3,7 @@ import { blogs } from "../data.ts/blog";
 
 export default function Blog() {
     return (
-        <section id="blog" className="w-full py-20 px-6 bg-gray-50">
+        <section id="blog" className="scroll-mt-16 w-full py-20 px-6 bg-gray-50">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4 text-center">블로그</h2>
             <h3 className="text-lg md:text-lg font-normal text-gray-600 mb-12 text-center">
                 개발 경험과 기술적 인사이트를 공유합니다.

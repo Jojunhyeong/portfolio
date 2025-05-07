@@ -29,7 +29,7 @@ export default function TechStack() {
     }];
 
     return(
-        <section id="tech" className="w-full bg-gray-50  py-20 px-6">
+        <section id="tech" className="scroll-mt-16 w-full bg-gray-50  py-20 px-6">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-12 text-center">기술 스택</h2>
             <h3 className="text-2xl md:text-xl font-semibold text-gray-600 mb-12 text-center">다양한 프론트엔드 기술을 활용하여 사용자 친화적인 웹 애플리케이션을 개발합니다.</h3>
 

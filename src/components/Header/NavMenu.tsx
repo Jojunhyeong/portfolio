@@ -34,7 +34,7 @@ export default function NavMenu() {
 
   return (
     <nav className="hidden md:flex gap-6 text-sm text-gray-800 font-semibold">
-      {menus.map((menu, idx) => (
+      {menus.map((menu) => (
         <a
           key={menu.id}
           href={`#${menu.id}`}
