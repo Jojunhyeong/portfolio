@@ -2,7 +2,7 @@
 
 import ProjectCard from "../components/ProjectCard";
 import ProjectModal from "../components/ProjectModal";
-import chopThumbnail from "../assets/image/thumbnail_chop.png";
+import chopThumbnail from "/public/assets/image/thumbnail_chop.png";
 
 export default function Projects() {
     const projects = [
@@ -12,7 +12,7 @@ export default function Projects() {
             techStack: ["React", "TypeScript", "Vite", "Styled-Components", "PWA"],
             link: "https://github.com/buru-no1/burumarket-client",
             thumbnail: chopThumbnail,
-            videoSrc: "/src/assets/video/chop.mp4",
+            videoSrc: "/public/assets/video/chop.mp4",
         },
     ];
 

@@ -1,4 +1,4 @@
-import profile from "../../src/assets/image/profile_pic.jpg"
+import profile from "/public/assets/image/profile_pic.jpg"
 export default function About() {
     return (
         <section
