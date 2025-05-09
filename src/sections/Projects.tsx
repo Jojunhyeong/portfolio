@@ -14,6 +14,15 @@ export default function Projects() {
             thumbnail: chopThumbnail,
             videoSrc: "/assets/video/chop.mp4",
         },
+        {
+            title: "Portfolio",
+            description: "나만의 포트폴리오 웹사이트",
+            techStack: ["React", "TypeScript", "Vite", "TailwindCSS"],
+            link: "https://github.com/Jojunhyeong/portfolio",
+            thumbnail: "/assets/image/portfolio.png",
+            videoSrc: "/assets/video/portfolio.mp4",
+            
+        }
     ];
 
     return (
