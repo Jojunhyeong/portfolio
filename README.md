@@ -5,9 +5,9 @@
 
 <br />
 
-## 🚀 데모
+## 🚀 주소
 
-👉 [joshportfolio.com](https://joshportfolio.com)
+👉 [https://portfolio-kappa-rouge-28.vercel.app/])
 
 <br />
 
@@ -39,15 +39,6 @@
   - 부드러운 이동 지원
 - **연락처 섹션**
   - 이메일 링크, 소셜 미디어, 이력서 다운로드 제공
-
-<br />
-
-## 🧩 배포 환경에서 겪은 이슈
-
-- `src/assets` 경로에서 이미지를 불러올 경우 Vercel 배포 시 이미지가 깨지는 문제가 발생  
-→ `public/assets`로 옮기고 절대 경로(`/assets/...`)로 변경해 해결
-
-자세한 내용은 [Velog 글](https://velog.io/@jojh0323/Vercel로-포트폴리오-배포하며-겪은-이미지-깨짐-이슈-해결기) 참고
 
 <br />
 
