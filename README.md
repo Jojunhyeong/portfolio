@@ -7,7 +7,7 @@
 
 ## 🚀 주소
 
-👉 [https://portfolio-kappa-rouge-28.vercel.app/])
+👉 https://portfolio-kappa-rouge-28.vercel.app
 
 <br />
 
