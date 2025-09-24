@@ -1,5 +1,5 @@
 import thumbChop from "/public/assets/image/thumbnail_chop.png";
-import gitError from "/pulic/assets/image/git_error.png";
+import gitError from "/public/assets/image/git_error.png";
 import portfolio from "/public/assets/image/portfolio.png";
 
 export const blogs = [
