@@ -23,7 +23,7 @@ export default function BlogCard({ title, description, date, link, thumbnail }: 
             )}
 
             <div className=" p-4 flex flex-col gap-2">
-                <h3 className="text-lg ">{title}</h3>
+                <h3 className="text-lg text-black">{title}</h3>
                 <p className="text-sm text-gray-600">{description}</p>
                 <p className=" text-xs text-gray-500 ">{date}</p>
             </div>
