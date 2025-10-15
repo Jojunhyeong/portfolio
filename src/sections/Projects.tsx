@@ -22,6 +22,15 @@ export default function Projects() {
             thumbnail: "/assets/image/portfolio.png",
             videoSrc: "/assets/video/portfolio.mp4",
             
+        },
+        {
+            title: "머니플랜",
+            description: "가계부 웹앱",
+            techStack: ["React", "Vite", "TailwindCSS", "Zustand", "Supabase"],
+            link: "https://github.com/Jojunhyeong/Ledger",
+            thumbnail: "/assets/image/money_plan.png",
+            videoSrc: "",
+            
         }
     ];
 
