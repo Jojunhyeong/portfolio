@@ -22,7 +22,7 @@ export default function ProjectCard({ title, description, techStack, link, thumb
           <img
             src={thumbnail}
             alt={`${title} 썸네일`}
-            className="w-full h-40 object-contain mb-4 rounded-md z-10 transition-opacity duration-300 group-hover:opacity-0"
+            className="w-100 h-40 object-fit mb-4 rounded-md z-10 transition-opacity duration-300 group-hover:opacity-0"
           />
           {videoSrc && (
             <video

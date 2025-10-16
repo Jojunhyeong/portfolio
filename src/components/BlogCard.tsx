@@ -15,7 +15,7 @@ export default function BlogCard({ title, description, date, link, thumbnail }: 
             className="no-underline text-inherit flex flex-col rounded-xl overflow-hidden shadow-lg hover:shadow-lg transition-transform duration-500 hover:-translate-y-2 bg-white hover:text-black"
         >
             {thumbnail ? (
-                <img src={thumbnail} alt="title" className="w-full h-56 object-cover"/>
+                <img src={thumbnail} alt="title" className="w-100 h-56 object-fit"/>
             ): (
                 <div className="w-full h-48 bg-gray-200 flex items-center justify-center text-gray-400 text-sm">
                     No Image

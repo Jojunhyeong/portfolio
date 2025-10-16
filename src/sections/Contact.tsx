@@ -11,7 +11,7 @@ export default function Contact() {
                 <div >
                     <h3 className="text-lg font-semibold text-gray-800">이메일</h3>
                     <h3 className="text-gray-600 hover:underline">
-                        whwnsgud23@naver.com
+                        jojh0323@pukyong.ac.kr
                     </h3>
                 </div>
 
